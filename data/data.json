@@ -1,6 +1,6 @@
 {
   "global": {
-    "siteName": "Strapi Blog",
+    "siteName": "Simple Teams",
     "defaultSeo": {
       "metaTitle": "Page",
       "metaDescription": "A blog made with Strapi",
